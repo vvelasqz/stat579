@@ -1,2 +1,2 @@
 # stat579
-Excersices from stat579 class 
+Excersices from stat579 class. Includes HW and class excersices
